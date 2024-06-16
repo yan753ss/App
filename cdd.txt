@@ -1,0 +1,4 @@
+@echo off
+cd /d C:\path\to\project
+F:\log_aggregator\venv\Scripts\activate.bat
+python run.py parse_logs_command
